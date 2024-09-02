@@ -135,7 +135,6 @@
 * [Kattis](https://open.kattis.com)
 * [Mathproblem of the Month - Bilkent University](http://www.fen.bilkent.edu.tr/~cvmath/prob-month.html)
 * [PEG Judge](http://wcipeg.com)
-* [Pep Coding](https://www.pepcoding.com/resources)
 * [PKU Online Judge](http://poj.org)
 * [Ponder This!](https://www.research.ibm.com/haifa/ponderthis/index.shtml)
 * [Practice Python](https://www.practicepython.org)
